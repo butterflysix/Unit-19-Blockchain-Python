@@ -138,8 +138,8 @@
 
     - Send a transaction to another testnet address (either your own, or the faucet's).
     
-      ![bitcoin_testnet](images/bitcoin_testnet.png)
-          
+      ![bitcoin_testnet](https://github.com/butterflysix/Unit-19-Blockchain-Python/blob/main/images/bitcoin_testnet.png)
+                
   - **Local PoA Ethereum transaction**
 
     - Add one of the `ETH` addresses to the pre-allocated accounts in your `networkname.json`.
