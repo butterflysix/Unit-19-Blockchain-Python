@@ -138,7 +138,7 @@
 
     - Send a transaction to another testnet address (either your own, or the faucet's).
     
-      ![bitcoin_testnet](https://github.com/butterflysix/Unit-19-Blockchain-Python/blob/main/images/bitcoin_testnet.png)
+      ![bitcoin_testnet](https://github.com/butterflysix/Unit-19-Blockchain-Python/blob/main/wallet/images/bitcoin_testnet.png)
                 
   - **Local PoA Ethereum transaction**
 
